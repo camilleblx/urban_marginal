@@ -8,7 +8,7 @@ import javax.swing.ImageIcon;
 import controleur.Global;
 import outils.connexion.Connection;
 
-public class Attaqiue extends Thread implements Global {
+public class Attaque extends Thread implements Global {
 	
 	private Joueur attaquant ;
 	private JeuServeur jeuServeur ;
